@@ -6,6 +6,13 @@ Ce dépôt contient une implémentation de circuits quantiques à **trois qubits
 
 ---
 
+## Script du projet
+
+Le code complet du projet est disponible dans le notebook Jupyter suivant :
+[ghz_w.ipynb](https://github.com/SaadHadadia/GHZ_and_W_quantic_states/blob/main/ghz_w.ipynb)
+
+---
+
 ## Objectifs
 
 * Créer et manipuler des circuits quantiques à 3 qubits.
